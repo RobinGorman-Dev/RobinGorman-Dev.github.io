@@ -3,7 +3,7 @@
 Level 3 Game Development student at Belfast Metropolitan College.
 Working with Unreal Engine, Blender, Adobe.
 
-**Portfolio:** https://RobinGorman-Dev.github.io/
+**Portfolio:** https://robingorman-dev.github.io/
 
 ## What is this repo?
 

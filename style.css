@@ -2,7 +2,7 @@ body {
   font-family: "Inter", system-ui, sans-serif;  /* fallbacks after commas */
   font-size: 16px;
   line-height: 1.6;        
-  color: #E8E8F0;
+  color: #551700;
 }
 
 h1 {
@@ -12,7 +12,9 @@ h1 {
   letter-spacing: -0.02em; 
   text-transform: uppercase;
 }
-
+p {
+  color: #FFEBE4;
+}
 a {
   color: #FF5A1F;
   text-decoration: none;

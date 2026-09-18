@@ -1,20 +1,19 @@
 body {
   font-family: "Inter", system-ui, sans-serif;  /* fallbacks after commas */
   font-size: 16px;
-  line-height: 1.6;        /* 1.6 x the font size — the single biggest
-                              readability win in all of CSS */
+  line-height: 1.6;        
   color: #E8E8F0;
 }
 
 h1 {
   font-size: 56px;
   color: #FF5A1F;
-  font-weight: 800;        /* 400 normal, 700 bold */
-  letter-spacing: -0.02em; /* tighten big headings slightly */
+  font-weight: 800;        
+  letter-spacing: -0.02em; 
   text-transform: uppercase;
 }
 
 a {
   color: #FF5A1F;
-  text-decoration: none;   /* removes the underline */
+  text-decoration: none;
 }

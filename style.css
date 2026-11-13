@@ -5,13 +5,13 @@
    ========================================================= */
 
 :root {
-  --bg:        #0E0E14;   /* page background — near black, not pure black */
-  --surface:   #16161F;   /* cards and panels */
-  --line:      #2A2A38;   /* borders and dividers */
-  --text:      #E8E8F0;   /* body text */
-  --muted:     #9A9AB0;   /* secondary text */
-  --accent:    #FF5A1F;   /* links, highlights, the one loud colour */
-  --accent-2:  #00D6D6;   /* a second accent, used sparingly */
+  --bg:        #17130f;   /* page background - dark, but accented */
+  --surface:   #1c0202;   /* cards and panels */
+  --line:      #382a2a;   /* borders and dividers */
+  --text:      #f0e8e8;   /* body text */
+  --muted:     #b09a9a;   /* secondary text */
+  --accent:    #ff1f1f;   /* links, highlights, the one loud colour */
+  --accent-2:  #d60000;   /* a second accent, used sparingly */
 
   --display: "Space Grotesk", system-ui, sans-serif;
   --body:    "Inter", system-ui, -apple-system, sans-serif;

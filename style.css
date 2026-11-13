@@ -71,7 +71,7 @@ h1, h2, h3 {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: rgba(14, 14, 20, 0.85);
+  background: rgba(36, 16, 16, 0.85);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--line);
 }
@@ -117,8 +117,8 @@ h1, h2, h3 {
   padding: 110px 0 90px;
   border-bottom: 1px solid var(--line);
   background:
-    radial-gradient(900px 400px at 15% -10%, rgba(255, 90, 31, 0.16), transparent 65%),
-    radial-gradient(700px 400px at 90% 10%, rgba(0, 214, 214, 0.10), transparent 60%);
+    radial-gradient(900px 400px at 15% -10%, rgba(255, 31, 31, 0.16), transparent 65%),
+    radial-gradient(700px 400px at 90% 10%, rgba(214, 47, 47, 0.10), transparent 60%);
 }
 
 .kicker {
@@ -176,7 +176,7 @@ h1, h2, h3 {
 }
 
 .btn-primary:hover {
-  background: #ff6f3d;
+  background: #ff403d;
 }
 
 /* ---- sections ---- */

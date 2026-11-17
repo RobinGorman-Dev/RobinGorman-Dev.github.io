@@ -5,13 +5,13 @@
    ========================================================= */
 
 :root {
-  --bg:        #210303;   /* page background - dark, but accented */
+  --bg:        #140806;   /* page background - dark, but accented */
   --surface:   #1c0202;   /* cards and panels */
   --line:      #382a2a;   /* borders and dividers */
   --text:      #f0e8e8;   /* body text */
   --muted:     #b09a9a;   /* secondary text */
   --accent:    #ff1f1f;   /* links, highlights, the one loud colour */
-  --accent-2:  #d60000;   /* a second accent, used sparingly */
+  --accent-2:  #d63600;   /* a second accent, used sparingly */
 
   --display: "Space Grotesk", system-ui, sans-serif;
   --body:    "Inter", system-ui, -apple-system, sans-serif;
